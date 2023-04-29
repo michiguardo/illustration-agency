@@ -1,0 +1,186 @@
+body{ 
+    font-family: 'Italiana', serif;
+    font-family: 'Lobster', cursive; 
+    background-color: rgba(175, 181, 231, 1) ;
+    margin: 0;
+}
+header { 
+    margin: auto;
+    
+}
+.navbar{
+    display: flex;
+    flex-wrap: nowrap;
+    
+    justify-content:flex-end;
+    border-style: solid;
+  border-color: white;
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+  border-bottom-width: 1px;
+  margin: 20px ; 
+  font-family: 'Italiana', serif; 
+  font-size: 10px;
+  border-width: 2px ;
+  padding-right: 30px;
+}
+
+
+.navbar > div {
+
+    text-align: center;
+    line-height: 20px;
+    padding: 5px;
+  }
+
+.titolo {
+    font-family: 'Italiana', serif;
+    font-size: 30px;
+   margin: 20px;
+
+   display: flex;
+   border-style: solid;
+ border-color: white;
+ background-color: white;
+ border-radius: 10px 10px 10px 10px;
+ border-bottom-width: 1px;
+ margin: 20px; 
+ font-family: 'Italiana', serif; 
+ font-size: 30px;
+ border-width: 2px ;
+ padding-left: 30px;
+ max-width: 100% ;
+}
+
+.xo img {
+    max-width: 60%;
+    margin: 20px;
+    border-radius: 10px 10px 10px 10px ;
+}
+.xo {
+    font-size: 30px;
+    display: flex;
+
+    align-items: center;   
+}
+
+.linn img{
+max-width: 60% ;
+margin: 20px;
+border-radius: 10px 10px 10px 10px ;
+}
+
+.linn {
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+}
+
+.karlot img{
+max-width: 60%;
+margin: 20px;
+border-radius: 10px 10px 10px 10px ;
+}
+.karlot {
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+}
+
+.camilo img{
+max-width: 60%;
+margin: 20px;
+border-radius: 10px 10px 10px 10px ;
+}
+.camilo {
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+}
+
+.boca img{
+    max-width: 60%;
+    margin: 20px;
+    border-radius: 10px 10px 10px 10px ;
+}
+.boca{
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+}
+
+.tim img{
+    max-width: 60%;
+    margin: 20px;
+    border-radius: 10px 10px 10px 10px ;
+}
+.tim{
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+}
+
+
+h3{
+
+font-family: 'Italiana', serif;
+    font-size: 30px;
+   margin: 20px;
+
+
+   display: flex;
+   border-style: solid;
+ 
+ border-radius: 10px 10px 10px 10px;
+ border-bottom-width: 1px;
+margin: 13%; 
+ font-family: 'Italiana', serif; 
+ font-size: 30px;
+padding: 10px;
+ max-width: 50% ;
+}
+
+h3{
+    color: white;
+}
+
+.xo h3{
+    background-color: rgba(160, 73, 73, 0.9);
+    border-color: transparent;
+}
+.linn h3{
+    background-color: rgba(68, 106, 202, 0.7); 
+    border-color: transparent;
+}
+.karlot h3{
+    background-color: rgba(242, 136, 37, 0.7);
+    border-color: transparent;
+}
+.camilo h3{
+    background-color: rgba(244, 128, 71, 0.7);
+    border-color: transparent;
+}
+.boca h3{
+    background-color: rgba(244, 128, 71, 0.7);
+    border-color:transparent ;
+}
+.tim h3{
+    background-color: rgba(134, 84, 132, 0.7);
+    border-color: transparent;
+}
+
+.foot {
+    display: flex;
+    flex-wrap: nowrap;
+    
+    border-style: solid;
+  border-color: white;
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+  border-bottom-width: 1px;
+  margin: 20px ; 
+  font-family: 'Italiana', serif; 
+  font-size: 10px;
+  border-width: 2px ;
+  padding-right: 30px;
+}
